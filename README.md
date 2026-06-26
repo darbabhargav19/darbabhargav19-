@@ -17,12 +17,12 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
@@ -44,37 +44,4 @@
 ### 🚂 Automatic Railway Gate & Track Crack Detection
 - IoT-based automated railway safety system
 - IR sensors, GPS module and cloud-based alerting
-- Real-time monitoring and proactive maintenance
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-- Python Software Development
-- Building clean & maintainable code
-- Exploring backend development
-- Embedded Systems & IoT projects
-
----
-
-<h2 align="center">🏆 Core Strengths</h2>
-
-- Python Programming
-- Problem Solving & Debugging
-- Embedded Systems & IoT
-- Clean & Readable Code
-- Quick Learner & Team Player
-
----
-
-<h2 align="center">🔗 Connect with me</h2>
-
-<p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-darbha-869a08264/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darbabhargav19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darbabhargav19)
-</p>
-
----
-
-<p align="center">⭐ Building projects — one commit at a time.</p>
+- Real-time
